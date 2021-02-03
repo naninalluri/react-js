@@ -1,0 +1,22 @@
+.main{
+    border: 2px solid red;
+    padding:10px;
+    margin:10px;
+    width:300px;
+    height:425px;  
+}
+.ldiv{
+    border: 2px solid blue;
+    padding:10px;
+    margin:10px;
+    width:300px;
+    height:200px;
+}
+#rdiv{
+    border: 2px solid green;
+    padding:10px;
+    margin:10px;
+    width:300px;
+    height:400px;
+    display: flex;  
+}

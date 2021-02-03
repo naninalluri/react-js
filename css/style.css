@@ -1,6 +1,18 @@
-.sample{
-    background-color: aqua;
+.card1, #card2{
+    border: 2px solid red;
+    padding:10px;
+    margin:10px;
+    width:400px;
 }
-#sample{
-    background-color: aquamarine;
+.parent{
+    display: flex;
 }
+.card1{
+    display: flex;
+    flex:0.2;
+}
+#card2{
+    display: flex;
+    flex:0.6;
+}
+
