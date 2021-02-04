@@ -3,7 +3,8 @@
     padding:10px;
     margin:10px;
     width:300px;
-    height:425px;  
+    height:425px;
+    flex: 1;
 }
 .ldiv{
     border: 2px solid blue;
@@ -11,12 +12,13 @@
     margin:10px;
     width:300px;
     height:200px;
+    flex: 3;
 }
-#rdiv{
+.rdiv{
     border: 2px solid green;
     padding:10px;
     margin:10px;
     width:300px;
     height:400px;
-    display: flex;  
+    flex:4;  
 }
